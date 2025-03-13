@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shantanu Sunil Mane</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Language Learning Website**
+- 🔭 I’m currently working on **Market Research Website**
 
 - 🌱 I’m currently learning **AWS and React**
 
-- 💬 Ask me about **Java, Python , Angular , Spring Boot , JavaScript**
+- 💬 Ask me about **Java, Angular , Spring Boot , SQL**
 
 - 📫 How to reach me **shantanumane96@gmail.com**
 
