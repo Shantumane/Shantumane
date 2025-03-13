@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shantanumane96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11B8WtNsx0ZpHFZZzHTIkt6e39lbAG4H9/view?usp=drive_link](https://drive.google.com/file/d/11B8WtNsx0ZpHFZZzHTIkt6e39lbAG4H9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11B8WtNsx0ZpHFZZzHTIkt6e39lbAG4H9/view?usp=drive_link](https://drive.google.com/file/d/1Xj4hQV_Nm_LEgp02tXDMkgwsMyC67I2T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
